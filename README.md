@@ -40,6 +40,8 @@ FOR MULTILINE COMMENT WE USE THIS """
                                   """
 ```
 
+<br>
+
 ## Variable Declaration 
 
 ## Data Types
