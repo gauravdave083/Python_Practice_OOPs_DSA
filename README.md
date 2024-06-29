@@ -177,8 +177,7 @@ x = txt[2:5]
 
 ```bash
 txt = " Hello World "
-x = 
-txt.strip()
+x = txt.strip()
 ```
 
 <br>
