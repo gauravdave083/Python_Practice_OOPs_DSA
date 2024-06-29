@@ -43,28 +43,25 @@ Set Types:	set, frozenset
 Boolean Type:	bool
 ```
 
-<span style="color: red"> Question </span>
-The following code example would print the data type of x, what data type would that be?
+### Question : The following code example would print the data type of x, what data type would that be?
 
 ```bash
 x = ["apple", "banana", "cherry"]
 print(type(x))
 print(x)
 ```
-<span style="color: green"> Answer </span>
-A LIST.
+### Answer : A LIST.
+<br>
 <br>
 
-### Question
-The following code example would print the data type of x, what data type would that be?
+### Question: The following code example would print the data type of x, what data type would that be?
 
 ```bash
 x = ("apple", "banana", "cherry")
 print(type(x))
 print(x)
 ```
-### Answer
-A TUPLE.
+### Answer: A TUPLE.
 
 
 
