@@ -89,4 +89,17 @@ print(x)
 ```
 ### Answer: Dictionary{}.
 
+<br>
+There are three numeric types in Python:
 
+1. int
+2. float
+3. complex
+
+Variables of numeric types are created when you assign a value to them:
+
+```bash
+x = 1    # int
+y = 2.8  # float
+z = 1j   # complex
+```
