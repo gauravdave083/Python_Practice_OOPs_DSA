@@ -182,3 +182,9 @@ x = txt.strip()
 
 <br>
 
+### Question : <br>
+
+```bash
+txt = "Hello World"
+txt = txt.upper()
+```
