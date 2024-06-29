@@ -143,3 +143,22 @@ import random
 
 print(random.randrange(1, 10))
 ```
+
+<br>
+
+
+### Question: Use the len function to print the length of the string.
+
+```bash
+x = "Hello World"
+print(len(x))
+```
+
+<br>
+
+### Question: Get the first character of the string txt.
+
+```bash
+txt = "Hello World"
+x = txt[0]
+```
