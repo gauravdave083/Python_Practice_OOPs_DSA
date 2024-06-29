@@ -43,4 +43,22 @@ Set Types:	set, frozenset
 Boolean Type:	bool
 ```
 
+The following code example would print the data type of x, what data type would that be?
+
+```bash
+x = ["apple", "banana", "cherry"]
+print(type(x))
+print(x)
+```
+A LIST.
+
+The following code example would print the data type of x, what data type would that be?
+
+```bash
+x = ("apple", "banana", "cherry")
+print(type(x))
+print(x)
+```
+A TUPLE.
+
 

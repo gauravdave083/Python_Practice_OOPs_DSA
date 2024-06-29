@@ -18,16 +18,14 @@ print(x)
 print(y)
 print(z)
 
+#The following code example would print the data type of x, what data type would that be?
 
-"""
-In programming, data type is an important concept.
-Variables can store data of different types, and different types can do different things.
-Python has the following data types built-in by default, in these categories:
+x = ["apple", "banana", "cherry"]
+print(type(x))
+print(x)
 
-Text Type:	str
-Numeric Types:	int, float, complex
-Sequence Types:	list, tuple, range
-Mapping Type:	dict
-Set Types:	set, frozenset
-Boolean Type:	bool
-"""
+#The following code example would print the data type of x, what data type would that be?
+
+x = ("apple", "banana", "cherry")
+print(type(x))
+print(x)
