@@ -35,4 +35,3 @@ print(x)
 x = {"name" : "John", "age" : 36}
 print(type(x))
 print(x)
-
