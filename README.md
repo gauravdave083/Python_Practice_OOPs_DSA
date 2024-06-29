@@ -170,3 +170,16 @@ x = txt[0]
 txt = "Hello World"
 x = txt[2:5]
 ```
+
+<br>
+
+### Question : <br>Return the string without any whitespace at the beginning or the end.
+
+```bash
+txt = " Hello World "
+x = 
+txt.strip()
+```
+
+<br>
+
