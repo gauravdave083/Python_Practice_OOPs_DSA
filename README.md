@@ -25,9 +25,10 @@ To get started with this repository, clone it to your local machine:
 ```bash
 git clone https://github.com/your-username/python-dsa-oop.git
 cd python-dsa-oop
+```
 
 
-##Data Types
+## Data Types
 
 In programming, data type is an important concept.
 Variables can store data of different types, and different types can do different things.
@@ -39,5 +40,6 @@ Sequence Types:	list, tuple, range
 Mapping Type:	dict
 Set Types:	set, frozenset
 Boolean Type:	bool
+
 
 
