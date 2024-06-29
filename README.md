@@ -31,13 +31,13 @@ cd python-dsa-oop
 ```bash
 print("Hello World")
 ```
-<br>
 
 ## Comments in Python are written with a special character, which one?
 ```bash
 YES , "#".
-<br>
-FOR MULTILINE COMMENT WE USE THIS """   """
+FOR MULTILINE COMMENT WE USE THIS """  
+                                     statements
+                                  """
 ```
 
 ## Variable Declaration 
