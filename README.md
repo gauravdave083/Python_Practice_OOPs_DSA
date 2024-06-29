@@ -107,6 +107,8 @@ y = 2.8  # float
 z = 1j   # complex
 ```
 
+<br>
+
 You can convert from one type to another with the int(), float(), and complex() methods:
 ```bash
 x = 1    # int
