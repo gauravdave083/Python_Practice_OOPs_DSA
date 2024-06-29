@@ -96,6 +96,7 @@ There are three numeric types in Python:
 2. float
 3. complex
 
+<br>
 ## Numbers
 Variables of numeric types are created when you assign a value to them:
 
