@@ -182,7 +182,7 @@ x = txt.strip()
 
 <br>
 
-### Question : <br>
+### Question : <br>Convert the value of txt to upper case.
 
 ```bash
 txt = "Hello World"
