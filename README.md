@@ -32,9 +32,10 @@ cd python-dsa-oop
 print("Hello World")
 ```
 <br>
-Comments in Python are written with a special character, which one?
-YES , "#".
 
+#### Comments in Python are written with a special character, which one?
+YES , "#".
+<br>
 FOR MULTILINE COMMENT WE USE THIS """   """
 
 ## Variable Declaration 
