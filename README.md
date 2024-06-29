@@ -168,6 +168,5 @@ x = txt[0]
 
 ```bash
 txt = "Hello World"
-x = 
-txt[2:5]
+x = txt[2:5]
 ```
