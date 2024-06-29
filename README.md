@@ -27,6 +27,17 @@ git clone https://github.com/your-username/python-dsa-oop.git
 cd python-dsa-oop
 ```
 
+## Syntax Of Print Statement
+```bash
+print("Hello World")
+```
+<br>
+Comments in Python are written with a special character, which one?
+YES , "#".
+
+FOR MULTILINE COMMENT WE USE THIS """   """
+
+## Variable Declaration 
 
 ## Data Types
 
