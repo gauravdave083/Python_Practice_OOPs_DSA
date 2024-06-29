@@ -50,7 +50,7 @@ x = ["apple", "banana", "cherry"]
 print(type(x))
 print(x)
 ```
-### Answer : A LIST.
+### Answer : List[].
 <br>
 <br>
 
@@ -61,8 +61,15 @@ x = ("apple", "banana", "cherry")
 print(type(x))
 print(x)
 ```
-### Answer: A TUPLE.
+### Answer: Tuple().
 
+### Question: The following code example would print the data type of x, what data type would that be?
 
+```bash
+x = {"name" : "John", "age" : 36}
+print(type(x))
+print(x)
+```
+### Answer: Dictionary{}.
 
 
