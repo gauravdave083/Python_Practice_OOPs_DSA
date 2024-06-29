@@ -43,7 +43,7 @@ Set Types:	set, frozenset
 Boolean Type:	bool
 ```
 
-### Question
+<span style="color: red"> Question </span>
 The following code example would print the data type of x, what data type would that be?
 
 ```bash
@@ -51,7 +51,7 @@ x = ["apple", "banana", "cherry"]
 print(type(x))
 print(x)
 ```
-### Answer
+<span style="color: green"> Answer </span>
 A LIST.
 <br>
 
