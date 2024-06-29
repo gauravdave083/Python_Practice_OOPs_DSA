@@ -6,8 +6,7 @@ Welcome to the **Python DSA and OOP** repository! This repository is a comprehen
 
 In this repository, you will find:
 
-- **Data Structures**: Implementations of common data structures such as arrays, linked lists, stacks, queues, trees, graphs, heaps, hash tables, and more.
-- **Algorithms**: A variety of algorithms including sorting, searching, dynamic programming, graph traversal, and others.
+- **Data Structures**: Implementations of common data structures such as arrays, linked lists, stacks, queues, trees, and more.
 - **Object-Oriented Programming**: Examples and explanations of OOP principles such as classes, objects, inheritance, polymorphism, encapsulation, and abstraction.
 - **Practical Examples**: Real-world examples and problem-solving techniques using DSA and OOP principles.
 
@@ -16,7 +15,6 @@ In this repository, you will find:
 The repository is organized into the following directories:
 
 - `data_structures/`: Contains implementation of various data structures.
-- `algorithms/`: Includes different algorithms categorized by their functionality.
 - `oop_concepts/`: Demonstrates OOP concepts with examples and explanations.
 - `examples/`: Contains practical examples and problem-solving scenarios.
 
@@ -27,3 +25,19 @@ To get started with this repository, clone it to your local machine:
 ```bash
 git clone https://github.com/your-username/python-dsa-oop.git
 cd python-dsa-oop
+
+
+##Data Types
+
+In programming, data type is an important concept.
+Variables can store data of different types, and different types can do different things.
+Python has the following data types built-in by default, in these categories:
+
+Text Type:	str
+Numeric Types:	int, float, complex
+Sequence Types:	list, tuple, range
+Mapping Type:	dict
+Set Types:	set, frozenset
+Boolean Type:	bool
+
+
