@@ -1,6 +1,6 @@
-from menu import Menu
-from coffee_maker import CoffeeMaker
-from money_machine import MoneyMachine
+from project1.menu import Menu
+from project1.coffee_maker import CoffeeMaker
+from project1.money_machine import MoneyMachine
 
 money_machine = MoneyMachine()
 coffee_maker = CoffeeMaker()
