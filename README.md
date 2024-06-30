@@ -274,6 +274,8 @@ thislist = ["apple", "banana", "cherry", "apple", "cherry"]
 print(thislist)
 ```
 
+<br>
+
 ### Question:
 Print the number of items in the list:
 
