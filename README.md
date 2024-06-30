@@ -246,6 +246,8 @@ Logical operators are used to combine conditional statements:
 
 ![alt text](assets/Images/operators-logical.png)
 
+<br>
+
 ## Lists
 
 Lists are used to store multiple items in a single variable.
@@ -270,4 +272,12 @@ Lists allow duplicate values:
 ```bash
 thislist = ["apple", "banana", "cherry", "apple", "cherry"]
 print(thislist)
+```
+
+## Question:
+Print the number of items in the list:
+
+```bash
+thislist = ["apple", "banana", "cherry"]
+print(len(thislist))
 ```
