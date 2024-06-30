@@ -229,7 +229,7 @@ Bitwise operators
 ### Arithmetic Operators
 Arithmetic operators are used with numeric values to perform common mathematical operations:
 
-![alt text](assets/Images/assign_operators.png)
+![alt text](assets/Images/operators_arithmetic.png)
 
 ### Assignment Operators
 Assignment operators are used to assign values to variables:
