@@ -240,3 +240,8 @@ Assignment operators are used to assign values to variables:
 Comparison operators are used to compare values:
 
 ![alt text](assets/Images/operators-comparison.png)
+
+### Logical Operators
+Logical operators are used to combine conditional statements:
+
+![alt text](assets/Images/operators-logical.png)
