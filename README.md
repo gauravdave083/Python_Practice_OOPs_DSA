@@ -235,3 +235,8 @@ Arithmetic operators are used with numeric values to perform common mathematical
 Assignment operators are used to assign values to variables:
 
 ![alt text](assets/Images/assign_operators.png)
+
+### Comparison Operators
+Comparison operators are used to compare values:
+
+![alt text](assets/Images/operators-comparison.png)
