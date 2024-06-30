@@ -243,3 +243,4 @@ Operator	       Name	                  Example
 ### Assignment Operators
 Assignment operators are used to assign values to variables:
 
+![alt text](assets/Images/assign_operators.png)
