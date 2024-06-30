@@ -317,3 +317,15 @@ fruits = ["apple", "banana", "cherry"]
 fruits.remove("banana")
 ```
 
+<br>
+
+## Tuple ()
+
+Example: 
+Use the correct syntax to print the first item in the fruits tuple.
+
+```bash
+fruits = ("apple", "banana", "cherry")
+print(fruits[0])
+```
+
