@@ -301,3 +301,19 @@ list2 = [1, 5, 7, 9, 3]
 list3 = [True, False, False]
 ```
 
+### Question:
+Use the insert method to add "lemon" as the second item in the fruits list.
+
+```bash
+fruits = ["apple", "banana", "cherry"]
+fruits.insert(1,"lemon")
+```
+
+### Question:
+Use the remove method to remove "banana" from the fruits list.
+
+```bash
+fruits = ["apple", "banana", "cherry"]
+fruits.remove("banana")
+```
+
