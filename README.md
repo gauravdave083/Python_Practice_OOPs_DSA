@@ -429,6 +429,8 @@ Set is one of 4 built-in data types in Python used to store collections of data,
 
 A set is a collection which is unordered, unchangeable*, and unindexed.
 
+<br>
+
 * Note: Set items are unchangeable, but you can remove items and add new items.
 
 Sets are written with curly brackets.
@@ -436,6 +438,8 @@ Sets are written with curly brackets.
 ### Example
 
 Create a Set:
+
+<br>
 
 ```bash
 thisset = {"apple", "banana", "cherry"}
@@ -459,6 +463,7 @@ Once a set is created, you cannot change its items, but you can remove items and
 
 Duplicates Not Allowed:<br>
 Sets cannot have two items with the same value.
+<br>
 
 ### Example:<br>
 Duplicate values will be ignored:
@@ -479,6 +484,7 @@ print(thisset)
 
 Note: <br>
 The values False and 0 are considered the same value in sets, and are treated as duplicates:
+<br>
 
 ### Example: <br>
 False and 0 is considered the same value:
@@ -500,6 +506,7 @@ set3 = {True, False, False}
 <br>
 
 A set can contain different data types:
+<br>
 
 ### Example: <br>
 A set with strings, integers and boolean values:
@@ -525,6 +532,8 @@ print(type(myset))
 
 ### The set() Constructor
 It is also possible to use the set() constructor to make a set.
+
+<br>
 
 ### Example: <br>
 Using the set() constructor to make a set:
