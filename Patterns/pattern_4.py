@@ -1,5 +1,5 @@
 """
-2. Print this Pattern
+4. Print this Pattern
 
 1
 1 2
