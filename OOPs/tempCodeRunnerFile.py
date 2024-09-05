@@ -1,5 +1,2 @@
-class Car:
-#     brand = None
-#     model = None
-
-# my_car = Car()     
+print(my_tesla.model)
+print(my_tesla.full_name())
