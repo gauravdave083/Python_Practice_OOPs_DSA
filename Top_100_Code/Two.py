@@ -21,3 +21,29 @@ elif num2 > num1 and num2 > num3:
     print(num2, "is greatest")
 else:
     print(num3, "is greatest")
+
+
+# 3. Leap Year
+
+year = int(input("Enter the year: "))
+
+if year%400 ==0 or year%4==0 and year%100!=0:
+    print("Its a Leap Year")
+else:
+    print("Not a Leap Year")
+
+
+# 4. Prime number
+
+num = 11
+flag = 0
+
+for i in range(2, num):
+    if num%i == 0:
+        flag = 1
+        break
+if flag == 1:
+    print("Not Prime")
+else: 
+    print("Prime")
+
