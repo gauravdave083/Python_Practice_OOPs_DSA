@@ -148,3 +148,22 @@ if num == reverse:
     print("palindrome")
 else:
     print("not palindrome")
+
+
+
+# Armstrong Number
+
+number = int(input("Enter the number: "))
+length = len(str(number))
+
+temp = number
+sum = 0
+while temp > 0:
+    digit = temp % 10
+    sum += digit ** length 
+    temp = temp// 10
+
+if sum == number:
+    print("It is Amstrong Number")
+else:
+    print("NOt a Prime number")
