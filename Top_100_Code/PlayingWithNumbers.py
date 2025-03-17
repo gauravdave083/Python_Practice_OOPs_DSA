@@ -74,5 +74,60 @@ else:
 
 # Leap Year
 
-year = 2020
+year = 2022
 
+if (year%400 == 0) or (year%4==0 and year%100!=0):
+    print("leap Year")
+else:
+    print("Not a Leap Year")
+
+
+
+# Prime Number
+
+num = 3
+flag = 0
+for i in range(2,num):
+    if num%i == 0:
+        flag == 1
+        break
+if flag == 1:
+    print("Not Prime")
+else:
+    print("Prime")
+
+
+
+# Sum of Digits of a Number
+
+num = input("Enter a number: ")
+sum = 0
+for i in num:
+    sum = sum + int(i)
+print(sum)
+
+#------------------OR--------------------
+
+def sum_of_digits(n):
+    total = 0
+    while n > 0:
+        total += n % 10  # find last digit
+        n //= 10         # assign n
+    return total
+
+print(sum_of_digits(472))
+
+
+
+
+# Reverse A Number
+
+num = 1234
+reverse = 0
+
+while num > 0:
+    remainder = num % 10
+    reverse = (reverse * 10) + remainder
+    num = num // 10
+
+print(reverse)
