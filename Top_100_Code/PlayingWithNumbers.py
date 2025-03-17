@@ -44,3 +44,35 @@ sum = 0
 for i in range(num1, num2+1):
     sum+=i
 print(sum)
+
+
+
+# Greatest Of two Numbers
+
+num1 = 61
+num2 = 57
+
+if num1 > num2:
+    print(num1, "is greater")
+else:
+    print(num2, "is greater")
+
+
+
+# Greatest of three Number
+
+num1, num2, num3 = 3, 4, 5
+
+if num1 > num2 and num1 > num3:
+    print(num1, "is greatest")
+elif num2 > num1 and num2 > num3:
+    print(num2, "is greatest")
+else:
+    print(num3, "is greatest")
+
+
+
+# Leap Year
+
+year = 2020
+
